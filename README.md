@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **B3n7R/B3n7R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there!
+<b\>
+<b\>
+Don't mind me, just dipping my toes in all things *cloud*
